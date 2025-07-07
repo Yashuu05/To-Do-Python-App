@@ -32,8 +32,6 @@ todo-app/
 ├── todo.py # Main application file
 ├── task.db # SQLite database file
 └── README.md # Project documentation
-|__ screenshot/
-     |___ dashboard.png  # app preview
 
 ```
 ---
