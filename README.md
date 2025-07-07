@@ -40,9 +40,7 @@ todo-app/
 
 ---
 
-## 📸 Screenshots *(Optional Section)*
-
-> You can add a screenshot here like:
+## 📸 App Preview
 > ![Screenshot]("screenshot\dashboard.png")
 
 ---
