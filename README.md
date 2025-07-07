@@ -41,7 +41,7 @@ todo-app/
 ---
 
 ## 📸 App Preview
-> ![Screenshot]("screenshot\dashboard.png")
+> ![Screenshot](screenshot\dashboard.png)
 
 ---
 
